@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pe7bsg8bb-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pe7bsg8bb-go
